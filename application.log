@@ -1,0 +1,12 @@
+2021-10-31 16:19:03,438  INFO [main] LoginPageTest:35 - **************Validating Login page title:***************** 
+2021-10-31 16:19:03,453  INFO [main] LoginPageTest:56 - *****************Quiting browser**************** 
+2021-10-31 16:19:20,283  INFO [main] LoginPageTest:35 - **************Validating Login page title:***************** 
+2021-10-31 16:19:20,292  INFO [main] LoginPageTest:56 - *****************Quiting browser**************** 
+2021-10-31 16:19:35,196  INFO [main] LoginPageTest:43 - **************Validating logo of login page:***************** 
+2021-10-31 16:19:35,198  INFO [main] LoginPageTest:56 - *****************Quiting browser**************** 
+2021-10-31 16:19:50,431  INFO [main] LoginPageTest:43 - **************Validating logo of login page:***************** 
+2021-10-31 16:19:50,433  INFO [main] LoginPageTest:56 - *****************Quiting browser**************** 
+2021-10-31 16:20:04,561  INFO [main] LoginPageTest:43 - **************Validating logo of login page:***************** 
+2021-10-31 16:20:04,564  INFO [main] LoginPageTest:56 - *****************Quiting browser**************** 
+2021-10-31 16:20:19,779  INFO [main] LoginPageTest:49 - **************entering username and password***************** 
+2021-10-31 16:20:23,535  INFO [main] LoginPageTest:56 - *****************Quiting browser**************** 
