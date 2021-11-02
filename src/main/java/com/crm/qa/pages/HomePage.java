@@ -41,11 +41,13 @@ public class HomePage extends TestBase {
 
 		return driver.getTitle();
 	}
-	public void verifyUserName() {
+	public boolean verifyUserName() {
 		
 		String username=userNameLabel.getText();
 		Assert.assertEquals(username,"  User: Gayatri das","Incorrect username");
+		return false;
 	}
+
 
 	public ContactsPage clickOnContactsLink() {
 		
